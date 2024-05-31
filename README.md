@@ -8,3 +8,5 @@ Sobre Mim
 - Estou procurando colaborar em projetos web
 - Pronomes: ela/dela
 - Fato divertido: Amo criar cenários e personagens em meu tempo livre
+
+![](https://tenor.com/pt-BR/view/dami-dreamcatcher-dami-dami-dreamcatcher-dreamcatcher-meme-kpop-meme-gif-22415431)
