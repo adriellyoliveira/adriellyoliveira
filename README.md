@@ -9,4 +9,4 @@ Sobre Mim
 - Pronomes: ela/dela
 - Fato divertido: Amo criar cenários e personagens em meu tempo livre
 
-![GIF legal](https://media1.tenor.com/m/O_i2qHHBh-EAAAAd/deukaeminji-deukae.gif)
+![GIF legal](https://tenor.com/pt-BR/view/head-scratch-jiu-head-scratch-dreamcatcher-deukae-kim-minji-gif-9202507751131855531)
