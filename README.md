@@ -9,4 +9,4 @@ Sobre Mim
 - Pronomes: ela/dela
 - Fato divertido: Amo criar cenários e personagens em meu tempo livre
 
-![Dami linda](https://c.tenor.com/FDB37RoT3HEAAAAd/tenor.gif)
+![Dami linda](https://media1.tenor.com/m/FDB37RoT3HEAAAAd/dami-dreamcatcher-dami.gif)
