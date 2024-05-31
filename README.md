@@ -1,4 +1,4 @@
-##Olá, eu sou a Adrielly!
+# Olá, eu sou a Adrielly!
 
 Sou estudante em desenvolvimento web, atualmente focada em HTML e CSS. Estou me desenvolvendo nessa área e, futuramente, começarei meus estudos em design UI/UX, com o objetivo de criar interfaces intuitivas e atraentes.
 
