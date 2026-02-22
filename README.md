@@ -4,18 +4,24 @@
 
 <h2 align="center">Sobre Mim</h2>
 
-<p>Tenho interesse em criar interfaces modernas, intuitivas e bem estruturadas, unindo design e tecnologia para construir boas experiências digitais.
-<br>
-Atualmente estou desenvolvendo minhas habilidades e construindo a base para minha carreira na área de tecnologia.</p>
+<p>Tenho interesse em criar interfaces modernas, intuitivas e bem estruturadas, unindo design e tecnologia para construir boas experiências digitais.</p>
+<p>Atualmente estou desenvolvendo minhas habilidades e construindo a base para minha carreira na área de tecnologia.</p>
 
 <h2 align="center">Objetivos</h2>
 
-<p>
-- Me tornar uma UI/UX Designer profissional  
-- Criar projetos modernos e bem estruturados  
-- Construir um portfólio sólido  
-- Conseguir minha primeira oportunidade na área  
-- Evoluir constantemente como desenvolvedora e designer
-</p>
+<ul>
+  <li>Me tornar uma UI/UX Designer profissional </li>
+  <li>Criar projetos modernos e bem estruturados</li>
+  <li>Conseguir minha primeira oportunidade na área</li>
+  <li>Evoluir constantemente como desenvolvedora e designer</li>
+</ul>
+
+<h2 align="center">Tecnologias que estou aprendendo</h2>
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
+![Git](https://img.shields.io/badge/Git-learning-red)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-purple)
 
 ![GIF legal](https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif)
