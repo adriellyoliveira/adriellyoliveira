@@ -27,6 +27,6 @@
 
 <h2>Curiosidades</h2>
 <p>
-🎮 The Last of Us | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa
+🎮 The Last of Us e Life Is Strange | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa
 </p>
 
