@@ -25,9 +25,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
 ![Figma](https://img.shields.io/badge/Figma-UI%2FUX-purple)
 
-<h2>Além do código</h2>
+<h2>Curiosidades</h2>
 <p>
-🎮 The Last of Us | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa | 🔎 Fã de Ordem Paranormal
+🎮 The Last of Us | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa
 </p>
 
-![GIF legal](https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif)
+![GIF legal]([https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM2YWY2ZHEwMzYzdmw5bnk1ZGd1YWZiNTJtenB2NGp6aTc3MTR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2GqhGZEwKI9ZRW3BjL/giphy.gif))
