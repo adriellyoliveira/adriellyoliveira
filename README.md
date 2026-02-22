@@ -30,4 +30,4 @@
 🎮 The Last of Us | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa
 </p>
 
-![GIF Ellie](https://giphy.com/gifs/naughty-dog-jonah-hill-cut-it-out-just-stop-2GqhGZEwKI9ZRW3BjL)
+![GIF Ellie](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM2YWY2ZHEwMzYzdmw5bnk1ZGd1YWZiNTJtenB2NGp6aTc3MTR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2GqhGZEwKI9ZRW3BjL/giphy.gif)
