@@ -18,12 +18,12 @@
 
 <h2>Tecnologias que estou aprendendo</h2>
 
-<div align="center">
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
-![Git](https://img.shields.io/badge/Git-learning-red)
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX-purple)
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange">
+  <img src="https://img.shields.io/badge/CSS-3-blue">
+  <img src="https://img.shields.io/badge/JavaScript-learning-yellow">
+  <img src="https://img.shields.io/badge/Git-learning-red">
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-purple">
+</p>
 
 ![GIF legal](https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif)
