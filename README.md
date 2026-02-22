@@ -27,11 +27,7 @@
 
 <h2>Além do código</h2>
 <p>
- 🎮 The Last of Us<br>
-🎧 Dreamcatcher • ENHYPEN • Avril Lavigne<br>
-🎸 Interesse em tocar guitarra<br>
-🏠 Amo ficar em casa<br>
-🔎 Fã de Ordem Paranormal
+🎮 The Last of Us | 🎧 Dreamcatcher, ENHYPEN e Avril Lavigne | 🎸 Interesse em tocar guitarra | 🏠 Amo ficar em casa | 🔎 Fã de Ordem Paranormal
 </p>
 
 ![GIF legal](https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif)
