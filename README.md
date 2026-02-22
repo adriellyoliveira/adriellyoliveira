@@ -18,12 +18,18 @@
 
 <h2>Tecnologias que estou aprendendo</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange">
-  <img src="https://img.shields.io/badge/CSS-3-blue">
-  <img src="https://img.shields.io/badge/JavaScript-learning-yellow">
-  <img src="https://img.shields.io/badge/Git-learning-red">
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX-purple">
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-purple)
+
+<h2>Além do código</h2>
+<p>
+ 🎮 The Last of Us<br>
+🎧 Dreamcatcher • ENHYPEN • Avril Lavigne<br>
+🎸 Interesse em tocar guitarra<br>
+🏠 Amo ficar em casa<br>
+🔎 Fã de Ordem Paranormal
 </p>
 
 ![GIF legal](https://media1.tenor.com/m/f7XgCuz-OqsAAAAC/head-scratch-jiu-head-scratch.gif)
