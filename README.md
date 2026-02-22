@@ -2,6 +2,8 @@
 
 <p align="center"> Estudante de Sistemas para Internet no Senac, focada em Desenvolvimento Web e em formação para me tornar UI/UX Designer. </p>
 
+<hr>
+
 <h2>Sobre Mim</h2>
 
 <p>Tenho interesse em criar interfaces modernas, intuitivas e bem estruturadas, unindo design e tecnologia para construir boas experiências digitais.</p>
