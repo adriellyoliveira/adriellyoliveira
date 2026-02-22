@@ -1,6 +1,6 @@
 <h1 align="center"> Adrielly Araujo </h1>
 
-Estudante de Sistemas para Internet no Senac, com foco em Desenvolvimento Web e especialização em UI/UX Design.
+<p align="center"> Estudante de Sistemas para Internet no Senac, com foco em Desenvolvimento Web e especialização em UI/UX Design. </p>
 
 
 Sobre Mim
